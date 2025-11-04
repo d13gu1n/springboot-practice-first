@@ -1,4 +1,4 @@
-package com.example.springboot;
+package com.example.demo;
 
 import org.hamcrest.Matchers.equalTo;
 import org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
